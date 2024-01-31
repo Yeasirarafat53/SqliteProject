@@ -255,4 +255,4 @@ const styles = StyleSheet.create({
 export default App;
 
 
-// ariyan arif
+
